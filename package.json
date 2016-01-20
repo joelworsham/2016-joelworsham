@@ -1,0 +1,15 @@
+{
+  "name": "2016_JoelWorsham",
+  "description": "The 2016 Joel Worsham theme.",
+  "version": "0.1.0",
+  "repository": "https://github.com/joelworsham/2016-joelworsham",
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-sass": "~1.0",
+    "grunt-autoprefixer": "~3.0",
+    "grunt-contrib-uglify": "~0.9",
+    "grunt-contrib-watch": "~0.6",
+    "grunt-notify": "~0.4",
+    "matchdep": "~1.0"
+  }
+}
